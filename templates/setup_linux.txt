@@ -1,0 +1,8 @@
+🐧 Инструкция по настройке WireGuard VPN на Linux
+
+1️⃣ Установка WireGuard:
+
+📌 Ubuntu/Debian:
+```bash
+sudo apt update
+sudo apt install wireguard wireguard-tools
